@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "algorithm": "cpp",
+    "random": "cpp",
+    "chrono": "cpp",
+    "complex": "cpp",
+    "valarray": "cpp",
+    "__bit_reference": "cpp",
+    "__functional_base": "cpp",
+    "atomic": "cpp",
+    "bitset": "cpp",
+    "deque": "cpp",
+    "functional": "cpp",
+    "iterator": "cpp",
+    "limits": "cpp",
+    "locale": "cpp",
+    "memory": "cpp",
+    "ratio": "cpp",
+    "regex": "cpp",
+    "scoped_allocator": "cpp",
+    "system_error": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "vector": "cpp",
+    "ostream": "cpp"
+  }
+}
