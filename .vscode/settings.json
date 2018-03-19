@@ -23,6 +23,11 @@
     "tuple": "cpp",
     "type_traits": "cpp",
     "vector": "cpp",
-    "ostream": "cpp"
-  }
+    "ostream": "cpp",
+    "iosfwd": "cpp",
+    "forward_list": "cpp",
+    "list": "cpp",
+    "cmath": "cpp"
+  },
+  "python.formatting.provider": "yapf"
 }
