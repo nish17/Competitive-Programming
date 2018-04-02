@@ -1,7 +1,9 @@
+/*
+PROBLEM STATEMENT: https://www.hackerrank.com/contests/hourrank-27/challenges/impressing-the-boss/problem
+*/
+
 #include <bits/stdc++.h>
-
 using namespace std;
-
 vector<string> split_string(string);
 
 /*
