@@ -13,3 +13,10 @@ int main()
     cout << endl;
   }
 }
+
+a = 5;
+b = 7;
+d = 10;
+
+a = a + d;
+b = b + d - 1;
